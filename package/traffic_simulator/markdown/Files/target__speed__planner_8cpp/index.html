@@ -773,7 +773,7 @@
 
 <span class="kt">void</span> <span class="nf">TargetSpeedPlanner::update</span><span class="p">(</span><span class="kt">double</span> <span class="n">current_speed</span><span class="p">)</span>
 <span class="p">{</span>
-  <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">continuous_</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">if</span> <span class="p">(</span><span class="o">!</span><span class="n">continuous_</span> <span class="o">&amp;&amp;</span> <span class="n">target_speed_</span><span class="p">)</span> <span class="p">{</span>
     <span class="k">if</span> <span class="p">(</span><span class="n">current_speed</span> <span class="o">&gt;=</span> <span class="n">target_speed_</span><span class="p">.</span><span class="n">get</span><span class="p">())</span> <span class="p">{</span>
       <span class="n">target_speed_</span> <span class="o">=</span> <span class="n">boost</span><span class="o">::</span><span class="n">none</span><span class="p">;</span>
     <span class="p">}</span>
@@ -785,7 +785,7 @@
 <span class="p">}</span>  <span class="c1">// namespace traffic_simulator</span>
 </code></pre></div>
 <hr />
-<p>Updated on 27 July 2021 at 00:07:44 UTC</p>
+<p>Updated on 27 July 2021 at 07:19:22 UTC</p>
                 
                   
                 
