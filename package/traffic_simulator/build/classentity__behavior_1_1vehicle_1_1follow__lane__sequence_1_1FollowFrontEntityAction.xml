@@ -51,7 +51,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/include/traffic_simulator/behavior/vehicle/follow_lane_sequence/follow_front_entity_action.hpp" line="34" column="1" bodyfile="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/src/behavior/vehicle/follow_lane_sequence/follow_front_entity_action.cpp" bodystart="72" bodyend="127"/>
+        <location file="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/include/traffic_simulator/behavior/vehicle/follow_lane_sequence/follow_front_entity_action.hpp" line="34" column="1" bodyfile="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/src/behavior/vehicle/follow_lane_sequence/follow_front_entity_action.cpp" bodystart="72" bodyend="144"/>
       </memberdef>
       <memberdef kind="function" id="classentity__behavior_1_1vehicle_1_1follow__lane__sequence_1_1FollowFrontEntityAction_1aec47fd54509a966589806637d98d7a70" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
         <type>const openscenario_msgs::msg::WaypointsArray</type>
