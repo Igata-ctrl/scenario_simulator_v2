@@ -460,7 +460,7 @@
     <member refid="classhdmap__utils_1_1HdMapUtils_1a7e0f3b53892c0b9b7e824e307d9660bc" kind="function"><name>toMapBin</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a5f00f2fd1398b6a58e695f5b880a34f6" kind="function"><name>insertMarkerArray</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a890f6e4058b9704ba7b21bf7e9ba7cfe" kind="function"><name>toMapPoints</name></member>
-    <member refid="classhdmap__utils_1_1HdMapUtils_1a662e687d18c55609cd97ca312bde6466" kind="function"><name>toLaneletPose</name></member>
+    <member refid="classhdmap__utils_1_1HdMapUtils_1aba41d0e395f758fec5206fe2b5c76adc" kind="function"><name>toLaneletPose</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a8ff28117a37d1b2c18a3d6e0e05bd44d" kind="function"><name>toMapPose</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a71174da99952e42a5416c160e3053060" kind="function"><name>toMapPose</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a016c6a485712b3b1fcd2f3b450bb0f97" kind="function"><name>toMapPose</name></member>
@@ -495,7 +495,7 @@
     <member refid="classhdmap__utils_1_1HdMapUtils_1abcbb3443e352b352773e08f3b8d9db73" kind="function"><name>generateMarker</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1af2dd81ca4051851c81494bfbe08fed8d" kind="function"><name>getRightOfWayLaneletIds</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a2f2091800f6dba7990eb819a46a8d457" kind="function"><name>getRightOfWayLaneletIds</name></member>
-    <member refid="classhdmap__utils_1_1HdMapUtils_1a53cfc778f9d76d81fdebd66b17e80290" kind="function"><name>getClosetLaneletId</name></member>
+    <member refid="classhdmap__utils_1_1HdMapUtils_1a0fa72a6c615fe4e326566339dae8c60d" kind="function"><name>getClosetLaneletId</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1aa73ca234cb0979f1c113624508395823" kind="function"><name>getLaneletPolygon</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a71203a3037207afec9c31fc70c0ec5a3" kind="function"><name>getStopLinePolygon</name></member>
     <member refid="classhdmap__utils_1_1HdMapUtils_1a57108c20cc4accbcac79bdaf07f5ece5" kind="function"><name>getTrafficLightIds</name></member>

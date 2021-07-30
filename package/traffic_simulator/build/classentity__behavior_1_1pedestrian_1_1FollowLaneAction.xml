@@ -36,7 +36,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/include/traffic_simulator/behavior/pedestrian/follow_lane_action.hpp" line="37" column="1" bodyfile="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/src/behavior/pedestrian/follow_lane_action.cpp" bodystart="35" bodyend="91"/>
+        <location file="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/include/traffic_simulator/behavior/pedestrian/follow_lane_action.hpp" line="37" column="1" bodyfile="/home/runner/work/scenario_simulator_v2/scenario_simulator_v2/simulation/traffic_simulator/src/behavior/pedestrian/follow_lane_action.cpp" bodystart="35" bodyend="54"/>
       </memberdef>
       <memberdef kind="function" id="classentity__behavior_1_1pedestrian_1_1FollowLaneAction_1a4a179baa760ef8b6a0fa4932776d2421" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
         <type>void</type>
