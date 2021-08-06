@@ -408,7 +408,6 @@
     <member refid="classtraffic__simulator_1_1entity_1_1EntityManager_1a3480a7c0b3b6e81d58d99092d8679ced" kind="function"><name>getRelativePose</name></member>
     <member refid="classtraffic__simulator_1_1entity_1_1EntityManager_1a5e79395e9ad9d8d629a11b602d559b21" kind="function"><name>getRelativePose</name></member>
     <member refid="classtraffic__simulator_1_1entity_1_1EntityManager_1a23a0fe2c8df3d879d14355b4285a36aa" kind="function"><name>getStepTime</name></member>
-    <member refid="classtraffic__simulator_1_1entity_1_1EntityManager_1ae5a4c4da67b861101a42abb505cadd95" kind="function"><name>getSValueInRoute</name></member>
     <member refid="classtraffic__simulator_1_1entity_1_1EntityManager_1a95b5c44d015a8957d3a3b4f8159dd438" kind="function"><name>getWaypoints</name></member>
     <member refid="classtraffic__simulator_1_1entity_1_1EntityManager_1a02c42520e1202aea73ac99aa25fc58b4" kind="function"><name>isEgo</name></member>
     <member refid="classtraffic__simulator_1_1entity_1_1EntityManager_1a4514db8bc75ed89060d73d980bea90a3" kind="function"><name>getEgoName</name></member>
